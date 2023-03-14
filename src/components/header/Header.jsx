@@ -14,7 +14,6 @@ export default function Header() {
             <a href="#">Voters</a>
             <a href="#">Editors</a>
             <a href="#">Moderators</a>
-
         </center>
     </div>
   </div>
