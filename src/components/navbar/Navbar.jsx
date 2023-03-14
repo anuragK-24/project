@@ -17,8 +17,8 @@ export default function Navbar() {
         </center>
     </div>
     <div className="box3">
-        <button className='login'>Login</button>
-        <button className='sign-up'>Sign Up</button>
+        <a href='#'><button className='login'>Login</button></a>
+        <a href='#'><button className='sign-up'>Sign Up</button></a>
     </div>
   </div>
   </>)
