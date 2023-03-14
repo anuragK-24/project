@@ -2,3 +2,15 @@
     /* border: 2px solid black; */
     border-radius: 20px;
 }
+.switch{
+    color: black;
+        float: left;
+        height: 50px;
+        width: 100px;
+        position: -webkit-sticky;
+        position: sticky;
+        bottom: 15px;
+        border: none;
+        background-color: rgb(113, 113, 183);
+        border-radius: 15px;
+}

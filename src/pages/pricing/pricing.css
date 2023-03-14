@@ -85,7 +85,14 @@ border: 1px solid black;
 }
 
 .switch{
+    color: black;
     float: left;
     height: 50px;
     width: 100px;
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 15px;
+    border: none;
+    background-color: rgb(113, 113, 183);
+    border-radius: 15px;
 }
