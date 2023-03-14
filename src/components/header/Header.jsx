@@ -5,7 +5,7 @@ export default function Header() {
     <div>
 <div className="nav-wrapper">
     <div className="box-1">
-        <a href=""><img src="" alt="" /></a>
+        <input type="text" placeholder="Search.." className='search'/>
     </div>
     <div className="box-2">
         <center>

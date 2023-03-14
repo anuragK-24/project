@@ -8,10 +8,16 @@
     flex: 1;
 }
 
+.search
+{
+    margin-left: 50px;
+    height: 40px;
+    width: 250px;
+}
 
 .box-1 a {
-    margin-left: 70px;
     color: black;
+    size: ;
 }
 
 .box-2 a {

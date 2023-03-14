@@ -6,7 +6,7 @@ export default function Navbar() {
   return (<>
   <div className="nav-wrapper">
     <div className="box1">
-        <a href=""><img src="" alt="" /></a>
+        
     </div>
     <div className="box2">
         <center>
