@@ -1,0 +1,62 @@
+.nav-wrapper {
+    display: flex;
+}
+
+
+.box1 {
+    padding-top: 10px;
+    flex: 1;
+}
+
+
+.box1 a {
+    margin-left: 70px;
+    color: black;
+}
+
+.box2 a {
+    margin-right: 40px;
+    text-decoration: none;
+}
+
+.box2 {
+    padding-top: 20px;
+    flex: 1;
+}
+
+.box3 {
+    padding-top: 10px;
+    flex: 1;
+}
+
+.box3 a {
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+.box3 button {
+    margin-left: 20px;
+}
+
+
+
+
+.login {
+    padding: 15px 22.9375px 14.7969px 23px;
+    width: 85.94px;
+    height: 50.8px;
+    border: none;
+    border-radius: 16px;
+    background-color: white;
+    color: black;
+}
+
+.sign-up {
+    padding: 14px 24.5469px 13.7969px 24px;
+    background-color: rgb(217, 203, 220);
+    width: 126.55px;
+    height: 48.8px;
+    color: blue;
+    border: none;
+    border-radius: 16px;
+}

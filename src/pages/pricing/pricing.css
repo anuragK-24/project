@@ -1,0 +1,82 @@
+.outer{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 9;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.container-1,.container-3{
+    border:  1px solid black;
+    padding: 20px;
+    justify-content: space-around;
+    height: 550px;
+    border: none;
+    margin-right: 10px;
+}
+
+.container-1:hover,.container-2:hover,.container-3:hover{
+    box-shadow: 5px 10px 10px #beb0d4;
+    background-color:;
+    
+}
+
+.container-2
+{
+    margin-right: 10px;
+border: 1px solid black;
+    padding: 20px;
+    margin-top: -60px;
+    background-color: white;  
+    border: none;
+}
+
+.p-button{
+    width: 250px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: rgb(223, 208, 223);
+    border: none;
+    color: blue;
+}
+
+
+.overview{
+    background-color: rgb(92, 92, 209);
+    height: 400px;
+}
+
+.overview h1, p{
+    color: white;
+}
+
+
+.overview-box1{
+    background-color: blue;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    color: white;
+    margin-top: 70px ;
+}
+
+.overview-box1 p{
+    padding: 7px;
+}
+
+.label{
+    margin-bottom:35px ;
+    background-color: #f4f2ab;
+    align-items: center;
+    height: 30px;
+    width: 350px;
+    border-radius: 15px;
+
+}
+.label p{
+    color: #e8a70e;
+}
+
+.price-card{
+    margin-left: 50px ;
+}
