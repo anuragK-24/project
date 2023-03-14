@@ -1,9 +1,11 @@
 import React from 'react'
 import Navbar from '../../components/navbar/Navbar'
 import "./pricing.css"
+import { Link } from "react-router-dom";
 export default function Pricing() {
   return (<>
     <Navbar/>
+    
     <center>
     <div className="overview">
         <p className="trusted">PRICE</p>
@@ -71,6 +73,7 @@ export default function Pricing() {
             <li>We'll get you onboarded</li>
         </div>
     </div>
-    </div>    
-</>  )
+    </div>   
+    <button className='switch'> <Link to = "/users">Users</Link>  </button> 
+    </> )
 }

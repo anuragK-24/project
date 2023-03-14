@@ -40,7 +40,10 @@ border: 1px solid black;
     color: blue;
 }
 
-
+.p-button:hover{
+    background-color: blue;
+    color: white;
+}
 .overview{
     background-color: rgb(92, 92, 209);
     height: 400px;
@@ -79,4 +82,10 @@ border: 1px solid black;
 
 .price-card{
     margin-left: 50px ;
+}
+
+.switch{
+    float: left;
+    height: 50px;
+    width: 100px;
 }
